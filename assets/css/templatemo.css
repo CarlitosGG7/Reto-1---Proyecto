@@ -59,7 +59,8 @@ body, ul, li, p, a, label, input, div {
 .bg-dark { background-color: #212934 !important;}
 .bg-light { background-color: #e9eef5 !important;}
 .bg-black { background-color: #f30f0f !important;}
-.bg-success { background-color: #aa0707 !important;}
+.bg-success { background-color: #aa0707 !important;
+             box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);}
 .btn-success {
   background-color: #f50808 !important;
   border-color: #000000 !important;
