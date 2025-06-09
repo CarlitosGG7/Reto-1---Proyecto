@@ -85,8 +85,8 @@ body, ul, li, p, a, label, input, div {
 /* Shop ✅✅✅✅ */
 .shop-top-menu a:hover { color: #69bb7e !important;}
 .card-img {
-  width: 370px;
-  height: 380px;
+  width: 370px !important;
+  height: 380px !important;
   object-fit: cover;
 }
 /* Product */
